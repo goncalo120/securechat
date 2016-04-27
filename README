@@ -1,0 +1,5 @@
+The keyfile.c file should be compiled with "gcc keyfile.c -o keyfile"
+The keyfile.c file should be executed with "./keyfile name.surname"
+
+To connect two users they must have the same keyfile although with their respective names.
+Therefore one file should be generated for one user, lets say user1 with name1.surname1 but for the other user (user2) it is needed to copy and paste the same file and rename it name2.surname2.
